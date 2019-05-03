@@ -1,0 +1,12 @@
+[Desktop Entry]
+Comment=Scientific software package for numerical computations
+Exec=scilab 
+GenericName=Scientific Software Package
+Icon=scilab
+MimeType=application/x-scilab-sci;application/x-scilab-sce;application/x-scilab-tst;application/x-scilab-dem;application/x-scilab-sod;application/x-scilab-xcos;application/x-scilab-zcos;application/x-scilab-bin;application/x-scilab-cosf;application/x-scilab-cos;
+Name=Scilab
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=Science;Math;
+Keywords=Science;Math;Numerical;Simulation

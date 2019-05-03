@@ -1,0 +1,20 @@
+[Desktop Entry]
+Comment=Use WPS Writer to edit articles and reports.
+Exec=/opt/idea/bin/idea.sh
+GenericName=WPS Writer
+MimeType=application/wps-office.wps;application/wps-office.wpt;application/wps-office.doc;application/wps-office.dot;application/vnd.ms-word;application/msword;application/x-msword;application/msword-template;application/wps-office.docx;application/wps-office.dotx;application/rtf;
+Name=WPS Writer
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Office;WordProcessor;Qt;
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Icon=/opt/idea/bin/idea.png
+InitialPreference=3
+StartupWMClass=wps
+Name[es_SV]=Intellij
+GenericName[es_SV]=IDEA
+Comment[es_SV]=Programación

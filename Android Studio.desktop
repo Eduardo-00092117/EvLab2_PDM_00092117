@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Amazon
+Comment=Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+Type=Application
+Categories=Network;
+Icon=/opt/android-studio/bin/studio.png
+TryExec=/usr/share/ubuntu-web-launchers/amazon-launcher
+Exec=/opt/android-studio/bin/studio.sh
+NoDisplay=true
+X-Ubuntu-Gettext-Domain=ubuntu-default-launchers
+Name[es_SV]=Android Studio
